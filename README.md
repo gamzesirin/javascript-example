@@ -1,2 +1,2 @@
 # javascript-example
-burada javascript dilinde yazılmış örnek uygulamalar bulabilirsiniz
+burada javascript-html-css ile yazılmış frontend örnek uygulamalar bulabilirsiniz
