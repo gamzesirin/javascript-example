@@ -1,0 +1,1 @@
+uygulamanın görsellerini ekledim
